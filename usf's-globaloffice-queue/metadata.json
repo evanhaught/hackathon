@@ -1,0 +1,5 @@
+{
+  "name": "USF's GlobalOffice Queue",
+  "description": "A smart check-in dashboard for university international departments using Gemini to streamline student triage.",
+  "requestFramePermissions": []
+}
